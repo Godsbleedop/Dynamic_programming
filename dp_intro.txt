@@ -1,0 +1,6 @@
+dp stands for dynamic programming 
+  Dp is an optimization technique to solve a DP problem we need to break problem into steps   
+  optimal sub structutre
+  top down and bottom up 
+  top down = memoization  
+  bottom up = 
